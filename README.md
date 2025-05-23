@@ -1,5 +1,5 @@
 # 💫 About Me:
-My mind operates on a peculiar nocturnal schedule,<br>often finding its sharpest clarity when the rest of the world<br> is dreaming,<br> perhaps a side effect of constantly debugging the universe's<br> existential paradoxes. <br>When not wrestling with the profound absurdity of existence,<br>you'll likely find me engaged in the ancient art of<br>competitive cloud-gazing, meticulously cataloguing the fleeting <br>shapes of possibility. <br>Some call it daydreaming; I call it advanced pattern recognition. <br>And yes, I'm probably overthinking that last sentence right now, <br>but it's how I stay ahead of the curve.
+When not wrestling with the profound absurdity of existence,you'll likely find me engaged in the ancient art of competitive cloud-gazing,<br>Some call it daydreaming; I call it advanced pattern recognition. <br>And yes, I'm probably overthinking that last sentence right now, but it's how I stay ahead of the curve.
 
 
 # 💻 Tech Stack:
